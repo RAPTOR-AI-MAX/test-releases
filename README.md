@@ -1,3 +1,5 @@
+<img width="1892" height="1073" alt="image" src="https://github.com/user-attachments/assets/54381fed-8b92-4651-b8a7-a29cbdd50865" />
+
 # releases
 релиз винлокера по типу CatCrypt, UxCryptor.
 Пока что пытался добавить в автозагрузку но не вышло (вроде бы),
